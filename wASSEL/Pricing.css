@@ -1,0 +1,164 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: black;
+}
+#PriceHead{
+    background-color: black;
+    padding-top: 0%;
+    text-align: center;
+    color: white;
+    height: 100px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#table{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 100px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 40%;
+    display:inline-block;
+    padding-left: 25%;
+}
+
+#input1{
+    background-color: aliceblue;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#h2{
+    background-color: aliceblue;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#h3{
+    background-color: aliceblue;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#h4{
+    background-color: aliceblue;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#h5{
+    background-color: aliceblue;
+    border-radius: 12px;
+    text-align: center;
+    
+}
+
+#result{
+    
+        font-size: 10px;
+        font-size: 30px;
+        height: 50px;
+        width: 200px;
+        background-color: rgb(37, 128, 49);
+        border-radius: 50px;
+        margin: auto;
+        margin-left: 40%;
+        margin-bottom: 50%;
+        text-align: center;
+
+} p{
+    font-size: 10px;
+        font-size: 30px;
+        height: 50px;
+        width: 200px;
+        background-color: rgb(30, 108, 77);
+        border-radius: 50px;
+        margin: auto;
+        text-align: center;
+}
+#c{
+    
+    font-size: 10px;
+    font-size: 30px;
+    height: 50px;
+    width: 200px;
+    background-color: rgb(54, 88, 151);
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 10%;
+    margin-left: 33%;
+    
+
+} button{
+font-size: 10px;
+    font-size: 30px;
+    height: 50px;
+    width: 200px;
+    background-color: rgb(63, 54, 133);
+    border-radius: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+#b{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    color: rgb(171, 160, 160);
+    font-family:monospace;
+    font-size: 100%;
+    font-weight: bold;
+}
+/* CSS */
+.button-38{
+    margin-left: 550px;
+  background-color: #6f4444;
+  vertical-align: middle;
+  border: 2;
+  border-radius: .5rem;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: .875rem;
+  font-weight: 600;
+  line-height: 1.25rem;
+  padding: .75rem 1rem;
+  text-align: center;
+  text-decoration: none #D1D5DB solid;
+  text-decoration-thickness: auto;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-38:hover {
+  background-color: rgb(38, 73, 107);
+}
+
+.button-38:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.button-38:focus-visible {
+  box-shadow: none;
+}
+
+
+
+
+
+
+
+

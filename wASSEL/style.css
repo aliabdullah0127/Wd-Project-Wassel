@@ -1,0 +1,134 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: black;
+}
+#id1{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 100px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+} h1{
+    padding-top: 2%;
+} 
+
+
+#id2{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    color: white;
+    padding-top: 0.00%;
+    padding-bottom: 1%;
+    font-family:monospace;
+    font-size: 175%;
+    text-align: center;
+    font-weight: bold;
+} p{
+    padding-top: 2%;
+}
+
+#id3{
+    padding-top: 1%;
+    padding-bottom: 3%;
+    padding-left: 0%;
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    font-family:monospace;
+    font-size: 120%;
+}
+
+#id4{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 0%;
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    font-family:monospace;
+    font-size: 120%;
+}
+
+#id5{
+    background-color: rgb(0, 0, 0);
+    height: 60px;
+    width: 60;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 10px;
+    border-bottom: 10px;
+}
+#aboutus{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    color: rgb(171, 160, 160);
+    padding-top: 0%;
+    padding-bottom: 0%;
+    font-family:monospace;
+    font-size: 100%;
+    
+    font-weight: bold;
+
+} 
+#redirectbutton{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    color: rgb(171, 160, 160);
+    padding-top: 0%;
+    padding-bottom: 0%;
+    font-family:monospace;
+    font-size: 100%;
+    
+    font-weight: bold;
+
+} 
+
+
+
+/* CSS */
+.button-38{
+    margin-left: 550px;
+  background-color: #6f4444;
+  vertical-align: middle;
+  border: 2;
+  border-radius: .5rem;
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: .875rem;
+  font-weight: 600;
+  line-height: 1.25rem;
+  padding: .75rem 1rem;
+  text-align: center;
+  text-decoration: none #D1D5DB solid;
+  text-decoration-thickness: auto;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-38:hover {
+  background-color: rgb(38, 73, 107);
+}
+
+.button-38:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.button-38:focus-visible {
+  box-shadow: none;
+}
+#howit{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    color: rgb(171, 160, 160);
+    padding-top: 0%;
+    padding-bottom: 0%;
+    font-family:monospace;
+    font-size: 100%;
+    font-weight: bold;
+
+}
